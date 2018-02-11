@@ -1,5 +1,8 @@
 Python 3.6
 
+sample usage: python imgmerge.py -d ~/imgs -o ~/imgs/main.png -r 3
+
+
 usage: imgmerge.py [-h] -d DIRECTORY [-o OUTPUT] [-w WIDTH] [-r ROW]
 
 Image Merge Script - creates one image from all images in directory (by
